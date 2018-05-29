@@ -13,7 +13,7 @@ var inGameName = "Ultra Sun";
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/lincolnquick";
+var contactUrl = "https://reddit.com/u/lincolnquick";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
